@@ -124,23 +124,6 @@ The dashboard helps answer important business questions such as:
 - What is the average customer satisfaction score?
 - How effective is the business at converting enquiries into purchases?
 - What is the average amount spent per customer?
-
----
-
-## 📸 Dashboard Preview
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Customer Data
-
-![Customer Data](screenshots/customer_data.png)
-
-### PivotTables
-
-![PivotTables](screenshots/pivot_tables.png)
-
 ---
 
 ## 📁 Repository Contents
@@ -151,7 +134,6 @@ customer-analytics-excel-dashboard
 ├── Customer_Data_Collection_Analysis_Template.xlsx
 ├── Customer_Data_Analysis_Report.pdf
 ├── README.md
-├── LICENSE
 └── screenshots
     ├── dashboard.png
     ├── customer_data.png
